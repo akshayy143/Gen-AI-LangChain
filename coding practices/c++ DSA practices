@@ -72,3 +72,15 @@ emblace_back &emplace_front
 
 ##########pair
 
+########## priority queue
+
+priority_queue<int> q;
+
+
+###map
+
+map<string, int>m;
+m["tv"] = 100;
+m["handphone"] = 700;
+m.erase("tv");
+m.emplace("watch", 45)
