@@ -57,7 +57,11 @@ int main() {
 }
 
 
+############list
 
+list<int> l = {1,2,3}
+
+l.push_back
 
 
 
