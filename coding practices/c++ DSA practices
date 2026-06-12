@@ -61,7 +61,14 @@ int main() {
 
 list<int> l = {1,2,3}
 
+
+
 l.push_back
 
+######### deque 
+push_back  && push_front
 
+emblace_back &emplace_front
+
+##########pair
 
